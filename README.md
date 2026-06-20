@@ -10,7 +10,7 @@
 
 ### What I do
 
-I'm a Lead PM with **8+ years** across healthcare (payer, clinical, diagnostics, consumer, public health) and a builder's habit of shipping AI products solo. I care about **consequence-aware AI** — confidence scoring, human-in-the-loop, and evals before product code — not demos.
+I'm a Lead PM with **7+ years** across healthcare (payer, clinical, diagnostics, consumer, public health) and a builder's habit of shipping AI products solo. I care about **consequence-aware AI** — confidence scoring, human-in-the-loop, and evals before product code — not demos.
 
 ### Things I've built
 
