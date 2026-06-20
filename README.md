@@ -16,7 +16,7 @@ I'm a Lead PM with **8+ years** across healthcare (payer, clinical, diagnostics,
 
 | Project | What It Is | Signal |
 |---------|-----------|:-----:|
-| **[OutFlow](https://aibuilder.mrunalsurve.com)** | Eval-first AI money-protection agent, built solo in 3 weeks | 96.8% accuracy · 3-layer eval framework · 8 beta users |
+| **[Agent Portfolio](https://github.com/Pm-Mrunal/ai-agent-portfolio)** | List of Agents Built and open sourced |
 | **[Drape AI](https://aibuilder.mrunalsurve.com)** | Multi-agent AI photoshoot platform for retail SMBs, with custom LoRAs | Monetized · 2 paying B2B clients |
 | **[AI Builder Bootcamp](https://aibuilder.mrunalsurve.com)** | Hands-on bootcamp teaching PMs and founders to build with AI | 4 cohorts · 40+ participants |
 
