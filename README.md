@@ -16,7 +16,6 @@ I'm a Lead PM with **8+ years** across healthcare (payer, clinical, diagnostics,
 
 | Project | What It Is | Signal |
 |---------|-----------|:-----:|
-| **[Agent Portfolio](https://github.com/Pm-Mrunal/ai-agent-portfolio)** | List of Agents Built and open sourced |
 | **[Drape AI](https://aibuilder.mrunalsurve.com)** | Multi-agent AI photoshoot platform for retail SMBs, with custom LoRAs | Monetized · 2 paying B2B clients |
 | **[AI Builder Bootcamp](https://aibuilder.mrunalsurve.com)** | Hands-on bootcamp teaching PMs and founders to build with AI | 4 cohorts · 40+ participants |
 | **[PM Portfolio Case Study Builder](https://github.com/Pm-Mrunal/pm-portfolio-case-study-builder)** | Claude Code tool that turns messy PRDs, notes & metrics into recruiter-ready PM case studies and a portfolio-site prompt | Open source · ![stars](https://img.shields.io/github/stars/Pm-Mrunal/pm-portfolio-case-study-builder?style=flat-square&label=) |
