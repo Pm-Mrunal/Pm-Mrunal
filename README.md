@@ -10,7 +10,7 @@
 
 ### What I do
 
-I'm a Lead PM with **7+ years** across healthcare (payer, clinical, diagnostics, consumer, public health) and a builder's habit of shipping AI products solo. I care about **consequence-aware AI** — confidence scoring, human-in-the-loop, and evals before product code — not demos.
+I'm a Senior PM with **7+ years** across healthcare (payer, clinical, diagnostics, consumer, public health) and a builder's habit of shipping AI products solo. I care about **consequence-aware AI** — confidence scoring, human-in-the-loop, and evals before product code — not demos.
 
 ### Things I've built
 
@@ -25,12 +25,12 @@ I'm a Lead PM with **7+ years** across healthcare (payer, clinical, diagnostics,
 
 ### Background
 
-- **Lead PM at LifeLabs** — Canada's largest diagnostics company; consumer health products
+- **Product Manager at LifeLabs** — Canada's largest diagnostics company; consumer health products
 - **Product Manager at McKesson** — oncology EMR for the clinical workflow
-- **Product at eGov Foundation** — GovTech / public-health platforms at population scale
-- **Product at UnitedHealth Group** — payer-side clinical data products
+- **Lead Product Manager at eGov Foundation** — GovTech / public-health platforms at population scale
+- **Product Manager at UnitedHealth Group** — payer-side clinical data products
 - **MBA, IIM Indore** · **BTech (IT), SGGSIE&T**
-- Builder stack: Claude Code, Replit, Bolt, Lovable, n8n, MindStudio (L3 Certified)
+- **Builder stack**: Claude Code, Replit, Bolt, Lovable, n8n, MindStudio (L3 Certified)
 
 ### How I think about AI products
 
